@@ -2,7 +2,7 @@
   {
     "title": "Escuadra",
     "price": 125.2,
-    "thumbnail": "url",
+    "thumbnail": "https://www.seekpng.com/png/full/347-3477811_escuadra-de-60-escuadra-para-corte-y-confeccion.png",
     "id": 1
   },
   {
